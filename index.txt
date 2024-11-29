@@ -1,0 +1,6 @@
+2024-11-28 TIL `git whatchanged` command exists
+2024-11-27 TIL svg import can pass type checking by prepending `@deno-types` directive in Deno LSP
+2024-11-27 TIL Ember is still actively maintained
+2024-11-25 TIL the dark mode can be disabled for a specific app on macOS
+2024-11-19 TIL there are only 7 different finite monoids of order 3
+2024-11-18 TIL you can create symlink from `dir/symlink.txt` to `dir/file.txt` by the command `ln -s file.txt dir/symlink.txt`

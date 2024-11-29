@@ -1,6 +1,6 @@
-const html = Deno.readTextFile("./index.html");
+const html = Deno.readTextFile("./index.txt");
 export default {
   async fetch() {
-    return new Response(await html, { headers: { "content-type": "text/html" } });
+    return new Response(await html, { headers: { "content-type": "text/plain" } });
   }
 }
