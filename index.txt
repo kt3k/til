@@ -1,3 +1,4 @@
+2024-12-05 TIL Remix uses `changeset` tool for managing CHANGELOGs
 2024-11-28 TIL `git whatchanged` command exists
 2024-11-27 TIL svg import can pass type checking by prepending `@deno-types` directive in Deno LSP
 2024-11-27 TIL Ember is still actively maintained
