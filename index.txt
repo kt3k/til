@@ -1,3 +1,4 @@
+2025-07-09 TIL git commit -a doesn't add 'new files'
 2025-04-17 TIL Option can be unpacked by `?` in Rust, which returns None if the value is none
 2025-04-17 TIL Result.inspect_err in Rust
 2024-12-17 TIL a group is characterized as a category with 1 object and with all arrows isomorphisms
